@@ -1,0 +1,5 @@
+control
+numpy
+matplotlib
+mediapipe
+opencv-python
